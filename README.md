@@ -43,9 +43,9 @@ Os decoders produzem *apenas um pavalra por vez*.
 ## Processo
 
 1. Defina as tarefas e crit[erios de sucesso
-  1. **Desempenho e precisão:** Quão bem o modelo precisa executar na tarefa?
-  2. **Latência:** Qual o tempo de resposta aceitável para o modelo? Isso dependerá dos requisitos em tempo real do seu aplicativo e das expectativas do usuário
-  3. **Preço:** Qual o orçamento para executar o modelo? Considere fatores como custo por chamada de API, o tamanho do modelo e a frequencia de uso  
+    1. **Desempenho e precisão:** Quão bem o modelo precisa executar na tarefa?
+    2. **Latência:** Qual o tempo de resposta aceitável para o modelo? Isso dependerá dos requisitos em tempo real do seu aplicativo e das expectativas do usuário
+    3. **Preço:** Qual o orçamento para executar o modelo? Considere fatores como custo por chamada de API, o tamanho do modelo e a frequencia de uso  
   
 2. Desenvolva casos de testes
 
